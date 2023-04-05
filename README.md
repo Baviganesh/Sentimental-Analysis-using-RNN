@@ -1,1 +1,4 @@
 # Sentimental-Analysis-using-RNN
+Sentiment analysis is a natural language processing technique used to identify and extract the sentiment of a piece of text, such as positive, negative, or neutral. Recurrent Neural Networks (RNNs) are a type of neural network commonly used for natural language processing tasks like sentiment analysis.
+
+Sentiment analysis using RNNs can be used to analyze the sentiment of the text in the file, which can help developers understand the overall tone and message of the project. By using RNNs, the sentiment analysis model can take into account the context and structure of the text, allowing for more accurate sentiment analysis. This information can be useful for potential contributors or users to gauge the overall sentiment of the project and whether it aligns with their own goals and values.
